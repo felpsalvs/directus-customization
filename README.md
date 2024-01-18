@@ -28,7 +28,6 @@ The repository uses the following environment variables:
 * `DIRECTUS_DATABASE_NAME`: The name of the Directus database.
 * `DIRECTUS_DATABASE_USERNAME`: The Directus database user name.
 * `DIRECTUS_DATABASE_PASSWORD`: The Directus database user password.
-* `EXTENSAO_CUSTOMIZAVEL_ENABLED`: Whether the customizable extension is enabled.
 
 **Other information**
 
