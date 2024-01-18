@@ -2,34 +2,6 @@
 
 This repository contains a docker file to run Directus, an open-source data management platform. It also contains a customizable extension that can be used to add new functionality to Directus.
 
-**How ​​to use**
-
-To use this repository, follow the steps below:
-
-1. Clone the repository:
-
-```
-git clone https://github.com/bard/directus-docker-extensao-customizavel.git
-```
-
-2. Enter the repository directory:
-
-```
-cd directus-docker-extension-customizable
-```
-
-3. Build the docker image:
-
-```
-docker build -t directus-extension-customizable .
-```
-
-4. Run the docker image:
-
-```
-docker run -p 8080:8080 -d directus-extension-customizable
-```
-
 **Customizable Extension**
 
 The customizable extension that comes with this repository adds a new functionality to Directus: the ability to create and manage users. To use this functionality, follow the steps below:
