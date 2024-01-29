@@ -9,7 +9,6 @@ The customizable extension that comes with this repository adds a new functional
 1. Access Directus in your browser.
 2. Click on the "Settings" menu.
 3. Click the "Extensions" tab.
-4. Enable the "Users" extension.
 
 After enabling the extension, you will be able to create and manage users in Directus. To create a new user, click the "New User" button. To manage an existing user, click the user's name.
 
