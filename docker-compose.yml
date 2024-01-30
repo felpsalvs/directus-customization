@@ -43,6 +43,18 @@ services:
       ADMIN_EMAIL: "admin@example.com"
       ADMIN_PASSWORD: "d1r3ctu5"
 
+      PUBLIC_URL: "http://localhost:8055"
+      AUTH_PROVIDERS: "google"
+      AUTH_GOOGLE_DRIVER: "openid"
+      AUTH_GOOGLE_CLIENT_ID: "619037920135-kes0o92h3ik47ic2f9250g5ocol9hfma.apps.googleusercontent.com"
+      AUTH_GOOGLE_CLIENT_SECRET: "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"
+      AUTH_GOOGLE_ISSUER_URL: "https://accounts.google.com/.well-known/openid-configuration"
+      AUTH_GOOGLE_IDENTIFIER_KEY: "email"
+      AUTH_GOOGLE_ICON: "google"
+      AUTH_GOOGLE_LABEL: "Google"
+      AUTH_GOOGLE_ALLOW_PUBLIC_REGISTRATION: "true"
+      AUTH_GOOGLE_DEFAULT_ROLE_ID: "bebea30d-3d81-4d1e-b835-0dc50808a75d"
+      
       # Make sure to set this in production
       # (see https://docs.directus.io/self-hosted/config-options#general)
       # PUBLIC_URL: "https://directus.example.com"

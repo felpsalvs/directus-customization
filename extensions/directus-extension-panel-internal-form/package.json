@@ -1,5 +1,5 @@
 {
-	"name": "directus-extension-directus-panel-internal-form",
+	"name": "directus-extension-panel-internal-form",
 	"description": "Please enter a description for your extension",
 	"icon": "extension",
 	"version": "1.0.0",
